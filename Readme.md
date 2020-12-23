@@ -36,7 +36,7 @@ www.twitter.com/Dr_amritpal
 | :---         |     :---:      |          ---: |   ---: |
 |  BERT | paper  | code |summary |
 |  BioBERT | paper  | code |summary |
-|  ChexBERT | paper  | code |summary |
+|  ChexBERT | paper  | code(https://github.com/Amritpal-001/Paper_Implementations/blob/master/NLP/ChexBert.ipynb) |summary |
 | | | |
 
 | Object detection| | | |
