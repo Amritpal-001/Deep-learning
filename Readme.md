@@ -23,13 +23,13 @@ www.twitter.com/Dr_amritpal
 
 | Segmentation| | | |
 | :---         |     :---:      |          ---: |   ---: |
-|  UNET | paper  | code |summary |
+|  UNET | paper  | [code](https://github.com/Amritpal-001/Paper_Implementations/tree/master/Segmentation/SA-UNet) |summary |
 |  VNET  | paper  | code |summary |      
 | | | |
 
 |  Transformers| | | |
 | :---         |     :---:      |          ---: |   ---: |
-|  Visual transformers | paper  | code |summary |
+|  Visual transformers | paper  | [code](https://github.com/Amritpal-001/Paper_Implementations/blob/master/Tranformers/Visual_transformer_quick_run.ipynb) |summary |
 | | | |
 
 |  NLP papers| | | |
@@ -47,7 +47,7 @@ www.twitter.com/Dr_amritpal
 |
 | Explainability | | | |
 | :---         |     :---:      |          ---: |   ---: |
-|  GRAD_CAM | paper  | code | summary |
+|  GRAD_CAM | paper  | [code](https://github.com/Amritpal-001/Paper_Implementations/blob/master/GRAD_CAM.ipynb) | summary |
 |  GRAD_CAM++ | paper  | code |summary |
  Saliency maps | paper  | code |summary |
 | | | |
