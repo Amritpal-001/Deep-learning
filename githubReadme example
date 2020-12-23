@@ -1,0 +1,60 @@
+# Paper_Implementations
+
+## Implementations of Deep learning research papers, with their summaries
+
+Paper summaries can be found on my twitter handle- 
+www.twitter.com/Dr_amritpal 
+
+## Aim
+- Understand and use/replicate latest research works 
+
+
+## GANs
+- [ ] DCGANs
+  - [x] Face generation
+  - [x] Artwork generation
+  - [ ] Medical dataset generation
+- [ ] CycleGANs
+- [ ] Pix_2_Pix
+- [ ] ProGANs
+- [x] StyleGANs   
+
+
+
+## Segmentation
+- [x] UNET
+- [ ] VNET       
+
+
+## Transformers
+- [x] Visual transformers
+- [ ] 
+- [ ]  
+
+## NLP papers
+- [ ] BERT
+- [ ] BioBERT
+- [x] ChexBERT
+
+
+## Object detection
+- [ ] RCNN
+- [ ] Fast_R_CNN       
+
+
+## Explainability
+- [x] GRAD_CAM
+- [ ] GRAD_CAM++
+- [ ] Saliency maps
+
+
+## Bias, Fairness in AI
+- [ ] Aequitas
+- [ ] SHAP values   
+
+
+
+
+
+
+
