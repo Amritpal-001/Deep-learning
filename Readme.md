@@ -8,6 +8,9 @@ www.twitter.com/Dr_amritpal
 ## Aim
 - Understand and use/replicate latest research works 
 
+| Self supervised learning  | paper  | code | summary |
+| :---         |     :---:      |          ---: |   ---: |
+|  BYOL | paper  | code | summary |
 
 | GANs  | paper  | code | summary |
 | :---         |     :---:      |          ---: |   ---: |
