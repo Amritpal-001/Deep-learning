@@ -11,6 +11,11 @@
 
 ![Architecture design](Images/BYOL_architecture.png)
 
+## Why self-supervised learning?
+Labelled data is hard to get, especially in medical imaging. Ability to use learn model labels all by itself would boost applications where AI can help ease the work flow. 
+
+## Why BYOL approach?
+BYOL apporach elimantes the need for negative image. BYOL paper was able to achieve state of the art results in self-supervised learning models.
 
 ## Experiment Details
 - Self supervised Base model used  - BYOL + ResNet50
