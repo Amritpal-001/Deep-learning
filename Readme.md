@@ -10,7 +10,7 @@ www.twitter.com/Dr_amritpal
 
 | Self supervised learning  | paper  | code | summary |
 | :---         |     :---:      |          ---: |   ---: |
-|  BYOL | paper  | code | summary |
+|  BYOL | [paper](https://arxiv.org/abs/2006.07733)  | [code](https://github.com/Amritpal-001/Paper_Implementations/tree/master/self_supervised/BYOL) | summary |
 
 | GANs  | paper  | code | summary |
 | :---         |     :---:      |          ---: |   ---: |
