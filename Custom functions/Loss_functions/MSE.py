@@ -2,7 +2,7 @@ import numpy as np
 
 
 ## Implementation 1
-def mean_saqure_error(x , y ):
+def mean_square_error(x , y ):
   '''
   inputs:
   x = actual  ( 1*n shape)
