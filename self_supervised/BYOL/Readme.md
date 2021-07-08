@@ -21,8 +21,10 @@
 
 ## Notebooks
 - [Intro to BYOL](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/BYOL_Understanding_model.ipynb)
-- [Pneumonia dataset]()
-- [Melanoma dataset]()
+- [Pneumonia - BYOL + ResNet]()
+- [Pneumonia ResNet]()
+- [Melanoma BYOL + ResNet]()
+- [Melanoma ResNet]()
 
 ## Datasets used
 
