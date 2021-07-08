@@ -1,4 +1,4 @@
-# Paper_Implementations
+# Deep learning Implementations
 
 ## Implementations of Deep learning research papers, with their summaries
 
