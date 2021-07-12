@@ -44,7 +44,7 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
 ![BYOL - Hemorrahge](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Hemorrahge_cm.png)
 ### BYOL - Pneumonia
 ![BYOL - Pneumonia dataset](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Pneumonia_cm.png)
-
+### Hemorrahge_BYOL_loss graph
 ![Hemorrahge_BYOL_loss](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Hemorrahge_BYOL_loss.png)
 
 
