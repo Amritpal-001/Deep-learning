@@ -25,11 +25,9 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
   - 2. Skin dataset - Melanoma detection
 
 ## Notebooks
-- [Intro to BYOL](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/BYOL_Understanding_model.ipynb)
-- [Pneumonia - BYOL + ResNet]()
-- [Pneumonia ResNet]()
-- [Melanoma BYOL + ResNet]()
-- [Melanoma ResNet]()
+- [x] [Intro to BYOL](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/BYOL_Understanding_model.ipynb)
+- [x] [Pneumonia - BYOL + ResNet](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb)
+- [ ] [Melanoma BYOL + ResNet]()
 
 ## Datasets used
 
