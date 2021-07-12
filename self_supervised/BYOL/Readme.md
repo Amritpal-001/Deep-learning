@@ -31,10 +31,11 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
 
 ## Datasets used
 
-| Dataset  | Type of task | No. of classes  | No of total images | Dataset link | code |
-| :---         |     :---:      | :---:      |          ---: |   ---: |---: |
-|  Pneumonia | Binary classfication  |3  | 5856 | [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) |  [link]() |
-|  Melanoma detection | Multiclass classfication  | 5  | 44.1k | [link](https://www.kaggle.com/cdeotte/jpeg-melanoma-192x192) |  [link]() |
+| Dataset  | Type of task | No. of classes  | No of total images | Dataset link | code | Status |
+| :---         |     :---:      | :---:      |          ---: |   ---: |---: |---: |
+|  Pneumonia | Binary classfication  | 2  | 5856 | [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) | - [x] |
+|  Hemmorahge detection | Binary classfication  | 2  | 44.1k | [link](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) |  - [x] |
+|  Melanoma detection | Multiclass classfication  | 5  | 44.1k | [link](https://www.kaggle.com/cdeotte/jpeg-melanoma-192x192) |  [link]() |  - [ ] |
 
 
 ## Results
