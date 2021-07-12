@@ -22,7 +22,8 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
 - Supervised model for comparison  - ResNet50
 - Tasks
   - 1. Radiology - Pneumonia vs  Normal chest xrays
-  - 2. Skin dataset - Melanoma detection
+  - 2. Radiology - Hemorrhage vs  Normal Head CT scans
+  - 3. Skin dataset - Melanoma detection
 
 ## Notebooks
 - [x] [Intro to BYOL](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/BYOL_Understanding_model.ipynb)
@@ -31,11 +32,19 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
 
 ## Datasets used
 
-| Dataset  | Type of task | No. of classes  | No of total images | Dataset link | code | Status |
-| :---         |     :---:      | :---:      |          ---: |   ---: |---: |---: |
-|  Pneumonia | Binary classfication  | 2  | 5856 | [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) | - [x] |
-|  Hemmorahge detection | Binary classfication  | 2  | 44.1k | [link](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) |  - [x] |
-|  Melanoma detection | Multiclass classfication  | 5  | 44.1k | [link](https://www.kaggle.com/cdeotte/jpeg-melanoma-192x192) |  [link]() |  - [ ] |
+| Dataset  | Type of task | No. of classes  | No of total images | Dataset link | code | 
+| :---         |     :---:      | :---:      |          ---: |   ---: |---: |
+|  Pneumonia | Binary classfication  | 2  | 5856 | [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) | 
+|  Hemmorahge detection | Binary classfication  | 2  | 44.1k | [link](https://www.kaggle.com/felipekitamura/head-ct-hemorrhage) |  [link](https://github.com/Amritpal-001/Paper_Implementations/edit/master/self_supervised/BYOL/Self_Supervised_learning - Pneumonia classify.ipynb) |  
+|  Melanoma detection | Multiclass classfication  | 5  | 44.1k | [link](https://www.kaggle.com/cdeotte/jpeg-melanoma-192x192) |   |  
+
+
+## Experiment 1 - Confusion matrix
+![BYOL - Hemorrahge](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Hemorrahge_cm.png)
+
+![BYOL - Pneumonia dataset](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Pneumonia_cm.png)
+
+![Hemorrahge_BYOL_loss](https://github.com/Amritpal-001/Deep-learning/blob/master/self_supervised/BYOL/Images/experiment_1/Hemorrahge_BYOL_loss.png)
 
 
 ## Results
@@ -44,9 +53,6 @@ BYOL apporach elimantes the need for negative image. BYOL paper was able to achi
 | :---         |     :---:      |          ---: |   ---: |          ---: |
 |  Pneumonia |   |  | | |
 |  Melanoma detection | |  | | |
-
-
-## Confusion matrix
 
 
 ## Project Directory 
