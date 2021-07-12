@@ -1,4 +1,4 @@
-# BYOL (Bootstrap your own Latent)
+# BYOL (Bootstrap your own Latent) - Self-Supervised learning
 
 ## Aim - Compare accuracy of self-supervised learning vs Supervised learning algorithms in Medical imaging tasks. 
 [Paper link](https://arxiv.org/abs/2006.07733)
