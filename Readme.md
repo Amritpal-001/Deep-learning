@@ -8,6 +8,18 @@ www.twitter.com/Dr_amritpal
 ## Aim
 - Understand and use/replicate latest research works 
 
+
+| Sections  | Links | 
+| :---         |     :---:      |    
+|  Tabular data | link |
+|  Computer vision | link |
+|  Natural langauge processing | ink |
+|  Generative models | link |
+|  Probablistic models |  link |
+|  Recommendator systems | link |
+|  Time series analysis |  link |
+
+
 | Self supervised learning  | paper  | code | summary |
 | :---         |     :---:      |          ---: |   ---: |
 |  BYOL | [paper](https://arxiv.org/abs/2006.07733)  | [code](https://github.com/Amritpal-001/Paper_Implementations/tree/master/self_supervised/BYOL) | summary |
