@@ -1,8 +1,8 @@
 # Tabular data
 
 Topics covered -
-- [] Classification problem
-- [] Regression problems
+- [ ] Classification problem
+- [ ] Regression problems
 
 Frameworks
 - Sklearn
